@@ -1,8 +1,4 @@
 {
-	"name": "crawl-core-version",
-	"description": "",
-	"main": "index.js",
-	"scripts": {},
 	"dependencies": {
 		"dotenv": "16.4.5",
 		"lodash-es": "4.17.21",
@@ -12,8 +8,12 @@
 		"zod": "3.23.8",
 		"zx": "8.1.8"
 	},
+	"description": "",
 	"devDependencies": {
 		"@types/lodash-es": "4.17.12",
 		"@types/node": "22.7.3"
-	}
+	},
+	"main": "index.js",
+	"name": "crawl-core-version",
+	"scripts": {}
 }
