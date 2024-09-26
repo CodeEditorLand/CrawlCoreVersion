@@ -1,19 +1,27 @@
 {
-	"name": "crawl-core-version",
-	"description": "",
-	"main": "index.js",
-	"scripts": {},
-	"dependencies": {
-		"dotenv": "16.4.5",
-		"lodash-es": "4.17.21",
-		"semver": "7.6.3",
-		"toml": "3.0.0",
-		"yaml": "2.5.0",
-		"zod": "3.23.8",
-		"zx": "8.1.4"
-	},
-	"devDependencies": {
-		"@types/lodash-es": "4.17.12",
-		"@types/node": "22.5.0"
-	}
+  "name": "crawl-core-version",
+  "packageManager": "pnpm@9.9.0",
+  "type": "module",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "dotenv": "^16.4.5",
+    "lodash-es": "^4.17.21",
+    "semver": "^7.6.3",
+    "toml": "^3.0.0",
+    "yaml": "^2.5.0",
+    "zod": "^3.23.8",
+    "zx": "^8.1.4"
+  },
+  "devDependencies": {
+    "@types/lodash-es": "^4.17.12",
+    "@types/node": "^22.5.0"
+  }
 }
