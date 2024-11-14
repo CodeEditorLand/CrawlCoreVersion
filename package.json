@@ -6,7 +6,7 @@
 		"toml": "3.0.0",
 		"yaml": "2.6.0",
 		"zod": "3.23.8",
-		"zx": "8.2.0"
+		"zx": "8.2.2"
 	},
 	"description": "",
 	"devDependencies": {
