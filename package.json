@@ -10,7 +10,7 @@
 		"toml": "3.0.0",
 		"yaml": "2.7.0",
 		"zod": "3.24.1",
-		"zx": "8.3.1"
+		"zx": "8.3.2"
 	},
 	"devDependencies": {
 		"@types/lodash-es": "4.17.12",
